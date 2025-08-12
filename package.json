@@ -2,6 +2,7 @@
   "name": "todo",
   "private": true,
   "version": "0.0.0",
+  "homepage": "https://sksrv.github.io/todo-app-react",
   "type": "module",
   "scripts": {
     "dev": "vite",

@@ -41,11 +41,11 @@ function TodoForm(props) {
                         placeholder='Update Your item'
                         value={input}
                         name='text'
-                        className='todo-input'
+                        className='todo-input edit'
                         onChange={handleChange}
                         ref={inputRef}
                     />
-                    <button className='todo-button'>Update todo</button>
+                    <button className='todo-button edit'>Update todo</button>
                 </>
             ) : (
                 <>
